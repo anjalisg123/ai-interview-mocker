@@ -61,24 +61,24 @@ Create a file named .env.local in the root directory and add the following keys.
 File: .env.local
 
 Code snippet
-# Clerk Authentication
+### Clerk Authentication
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 CLERK_SECRET_KEY=your_clerk_secret_key
 
-# Clerk Redirects
+### Clerk Redirects
 NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
 NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=/
 NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=/
 NEXT_PUBLIC_CLERK_AFTER_SIGN_OUT_URL=/
 
-# Database (NeonDB / PostgreSQL)
+### Database (NeonDB / PostgreSQL)
 NEXT_PUBLIC_DRIZZLE_DB_URL=postgresql://user:password@endpoint.neon.tech/neondb?sslmode=require
 
-# Google Gemini AI
+### Google Gemini AI
 GEMINI_API_KEY=your_gemini_api_key
 
-# App Config
+### App Config
 NEXT_PUBLIC_INTERVIEW_QUESTIONS=5
 NEXT_PUBLIC_INFORMATION="Enable Video Web Cam and Microphone to Start your AI Generated Mock Interview."
 NEXT_PUBLIC_QUESTION_NOTE="Click on record answer when you want to answer the question."
