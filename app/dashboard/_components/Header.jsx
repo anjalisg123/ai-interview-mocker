@@ -11,7 +11,7 @@ function Header() {
     return (
         <div className='flex p-4 items-center justify-between bg-secondary shadow-sm'>
             <Link href={'/'}>
-                <Image src={'/logo.svg'} width={160} height={100} alt="logo" className='cursor-pointer'/>
+                <Image src={'/logo1.png'} width={50} height={50} alt="logo" className='cursor-pointer'/>
             </Link>
 
             <ul className='hidden md:flex gap-6'>
