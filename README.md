@@ -133,7 +133,7 @@ Timer/Recording Control: Start and stop recording functionality.
 
 Analyzes the recorded answer against the question.
 
-Provides a numeric rating (1-10).
+Provides a numeric rating (1-5).
 
 Generates detailed textual feedback (Strengths & Areas for Improvement).
 
