@@ -1,5 +1,5 @@
 # AI Interview Mocker
-##📺 Demo Video - https://ai-interview-mocker-one-tau.vercel.app/sign-in?redirect_url=https%3A%2F%2Fai-interview-mocker-one-tau.vercel.app%2F
+## 📺 Demo - https://ai-interview-mocker-one-tau.vercel.app/sign-in?redirect_url=https%3A%2F%2Fai-interview-mocker-one-tau.vercel.app%2F
 
 # Overview
 AI Interview Mocker is a full-stack web application that serves as your personal AI-powered interview coach. It allows users to practice for real-world job interviews by generating customized questions based on their specific job role, tech stack, and experience level.
